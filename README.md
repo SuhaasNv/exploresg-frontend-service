@@ -7,7 +7,6 @@ A comprehensive React TypeScript application for exploring Singapore's attractio
 ExploreSG is a full-featured web application designed to help tourists and locals discover Singapore's offerings. The application includes a sophisticated car rental system with a multi-step booking process, dynamic fleet management, and responsive design optimized for all devices.
 
 ## ✨ Key Features
-
 ### 🚘 Car Rental System
 
 - **Dynamic Fleet Management**: Browse and filter a comprehensive car inventory
