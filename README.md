@@ -17,7 +17,6 @@ ExploreSG is a full-featured web application designed to help tourists and local
 - **State Management**: Seamless data flow between booking steps using React Router state
 
 ### 🎯 Core Features
-
 - **Responsive Design**: Mobile-first approach with Tailwind CSS
 - **Modern UI/UX**: Clean, professional interface with smooth transitions
 - **TypeScript Integration**: Full type safety throughout the application
